@@ -1,0 +1,1 @@
+console.log(Helper.Language.Greeting + " Happy coading :)")
